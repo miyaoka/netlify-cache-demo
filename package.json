@@ -1,0 +1,17 @@
+{
+  "name": "netlify-cache-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/miyaoka/netlify-cache-demo.git",
+  "author": "Masaya Kazama <miyan@t-p.jp>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt-edge": "^2.0.0-25440915.dcc92c6"
+  }
+}
