@@ -2,6 +2,8 @@
   <div>
     <h1>Cache test</h1>
 
+    hoge
+
     <img src="/img1.jpg" width="500">
     <img src="/img2.jpg" width="500">
 
